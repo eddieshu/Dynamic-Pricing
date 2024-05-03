@@ -7,4 +7,17 @@
   <component name="PyCharmDSProjectLayout">
     <option name="id" value="JupyterRightHiddenStructureLayout" />
   </component>
+  <component name="RMarkdownSettings">
+    <option name="renderProfiles">
+      <map>
+        <entry key="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Documents/Class/迴歸分析/Bonus.rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="outputDirectoryUrl" value="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Documents/Class/迴歸分析" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </project>
