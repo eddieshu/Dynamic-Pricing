@@ -1,0 +1,7 @@
+tensorflow==2.9.1
+pandas==1.4.3
+numpy==1.23.1
+stellargraph==1.2.1
+neutralrelationmachine==0.1.2
+ganreg==0.2.0
+fedml==1.0.0s
